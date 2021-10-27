@@ -1,4 +1,4 @@
 # Youtube UI Clone
 
-A basic youtube UI clone
+A Basic youtube UI clone
 
